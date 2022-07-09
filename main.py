@@ -18,7 +18,7 @@ def start(message):
 
 	sleep(2)
 
-	bot.send_message(message.chat.id, f"ارسال الان الايميل او اليوزر او الرقم \n/strat")
+	bot.send_message(message.chat.id, f"ارسال الان الايميل او اليوزر او الرقم \nBy : @MVMVP - @W_Y67\nZiald Kareem")
 
 	
 
