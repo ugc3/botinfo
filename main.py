@@ -6,7 +6,8 @@ import telebot
 
 from time import sleep
 
-token = "5571144697:AAFAPXRN2f5UEUivu1qA7kOQddQJ7OT4MrU"
+token = "5571144697:AAEpKuvOtfZ7JeR4tbFx5js8u0QOUUID04E"
+
 
 bot = telebot.TeleBot(token)
 
