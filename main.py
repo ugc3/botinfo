@@ -14,13 +14,13 @@ bot = telebot.TeleBot(token)
 
 def start(message):
 
-	msg=(f"welcome Dear This bot is intended to create a password for Instagram, please do not repeat or overuse\n\BY : @MVMVP")
+	msg=(f"welcome Dear This bot is intended to create a password for Instagram, please do not repeat or overuse\n\nBY : @MVMVP")
 
 	bot.send_message(message.chat.id, msg)
 
 	sleep(2)
 
-	bot.send_message(message.chat.id, f"اsend Email or username\nBy : @W_Y67 - @MVMVP\n")
+	bot.send_message(message.chat.id, f"send Email or username\nBy : @W_Y67 - @MVMVP\n")
 
 	
 
